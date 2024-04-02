@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4a3dd017-0dd6-4195-a0d1-83f58b4721c5}">
+		<property name="assetPath">
+			<value>393916__agc66__rocktumble1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.5381405895691609</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dddb56a7-0ff2-4fd4-8fe3-ce812079c3b2}</destination>
+		</relationship>
+	</object>
+</objects>

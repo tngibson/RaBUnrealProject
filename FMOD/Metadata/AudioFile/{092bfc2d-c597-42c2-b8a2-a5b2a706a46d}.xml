@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{092bfc2d-c597-42c2-b8a2-a5b2a706a46d}">
+		<property name="assetPath">
+			<value>494323__stib__chain.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>17</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dddb56a7-0ff2-4fd4-8fe3-ce812079c3b2}</destination>
+		</relationship>
+	</object>
+</objects>

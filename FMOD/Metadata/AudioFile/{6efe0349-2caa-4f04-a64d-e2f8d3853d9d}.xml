@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6efe0349-2caa-4f04-a64d-e2f8d3853d9d}">
+		<property name="assetPath">
+			<value>724250__kevp888__240127_2633_fr_busy_semi-indoor_market.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>337.60277083333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dddb56a7-0ff2-4fd4-8fe3-ce812079c3b2}</destination>
+		</relationship>
+	</object>
+</objects>

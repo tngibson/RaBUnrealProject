@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c3d4ab2a-afa3-4cd4-ab5d-c48c4e90e6e5}">
+		<property name="assetPath">
+			<value>552052__fmaudio__sweeping-old-broom-against-concrete-floor-1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.4395625000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dddb56a7-0ff2-4fd4-8fe3-ce812079c3b2}</destination>
+		</relationship>
+	</object>
+</objects>

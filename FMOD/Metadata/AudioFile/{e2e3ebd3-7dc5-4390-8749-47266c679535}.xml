@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e2e3ebd3-7dc5-4390-8749-47266c679535}">
+		<property name="assetPath">
+			<value>389687__shamewap__squeaky-wheels.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>4.7786666666666671</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dddb56a7-0ff2-4fd4-8fe3-ce812079c3b2}</destination>
+		</relationship>
+	</object>
+</objects>

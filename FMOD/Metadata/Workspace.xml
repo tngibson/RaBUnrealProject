@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{a817517c-bf8f-466d-bb16-a505cf1a7529}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Unreal Projects/RollABall/Content/FMOD/RaB_01</value>
+		</property>
+		<property name="builtBanksMirrorBrowserFolderHierarchy">
+			<value>true</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{1be7bb37-1964-4cce-9b64-79fd2d575b34}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{3f097a20-d54d-4438-98ba-7d293098650f}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{02933769-4a13-4b6c-a18b-a11635dd866d}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{d116f980-45df-4d23-9298-777f4dc84e27}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{fb2e218d-8e4d-479b-ade5-13da7979775d}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{18cdba77-3141-434a-a7f7-6f6c9ca299ac}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{dddb56a7-0ff2-4fd4-8fe3-ce812079c3b2}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{78f7881a-c495-4176-9e6b-7dd3370706cf}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{a3bce080-59a6-4c04-bcb0-1174a3de01f8}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{7b31a8db-9c87-4047-9f4f-7fd6e582b51e}</destination>
+		</relationship>
+	</object>
+</objects>

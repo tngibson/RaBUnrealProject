@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b79a67e5-163d-468c-b5e7-2f5420534d69}">
+		<property name="name">
+			<value>rolling</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d116f980-45df-4d23-9298-777f4dc84e27}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c3678d6b-a464-4e46-88ae-9eeb92b75b3f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c3678d6b-a464-4e46-88ae-9eeb92b75b3f}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
