@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{a817517c-bf8f-466d-bb16-a505cf1a7529}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../Unreal Projects/RollABall/Content/FMOD/RaB_01</value>
+			<value>.</value>
 		</property>
 		<property name="builtBanksMirrorBrowserFolderHierarchy">
 			<value>true</value>
